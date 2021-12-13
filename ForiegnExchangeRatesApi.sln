@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForiegnExchangeRatesApi", "ForiegnExchangeRatesApi\ForiegnExchangeRatesApi.csproj", "{C7A90C8F-DDCE-4DB8-881D-9312DB233A74}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7451F751-83A5-4592-A8CA-2DBE54703F87}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7A90C8F-DDCE-4DB8-881D-9312DB233A74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7A90C8F-DDCE-4DB8-881D-9312DB233A74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7A90C8F-DDCE-4DB8-881D-9312DB233A74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7A90C8F-DDCE-4DB8-881D-9312DB233A74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14E62824-DE14-4B48-92A0-8B995094FF85}
+	EndGlobalSection
+EndGlobal

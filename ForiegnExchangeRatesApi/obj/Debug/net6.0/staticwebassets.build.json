@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "d1Wyf3BfA9aGL2EZ9G2gELO7erg0OLd8QGNuAZWIIBc=",
+  "Source": "ForiegnExchangeRatesApi",
+  "BasePath": "_content/ForiegnExchangeRatesApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
